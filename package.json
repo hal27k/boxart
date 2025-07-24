@@ -2,9 +2,8 @@
   "name": "boxart",
   "version": "1.0.0",
   "scripts": {
-    "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "node server.js"
   },
   "dependencies": {
     "next": "^13.5.6",
